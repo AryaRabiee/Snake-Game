@@ -22,3 +22,9 @@ Control the snake, eat food, and try to survive as long as possible! 🚀
    pip install pygame
 
 
+## 📸 Screenshots
+Here's a preview of the game: 
+
+![Snake Game Screenshot](snake_game.png)
+
+
